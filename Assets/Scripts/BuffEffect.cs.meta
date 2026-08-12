@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 508b09a42ef8957429b48cdf79633b4b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Speed_Icon: {fileID: 21300000, guid: ef7edbd08efc05c4ba99e3f0545f6b07, type: 3}
+  - Reverse_Control_Icon: {fileID: 21300000, guid: 5df25895834d55e46bd1b5cd5d393128, type: 3}
+  - Slow_Icon: {fileID: 21300000, guid: 93f5a1c18ad21604bb882b0183da38b9, type: 3}
+  - Size_Icon: {fileID: 21300000, guid: 992da2ba5db49b24e8a2b5ce346ecb18, type: 3}
+  - No_Sight_Icon: {fileID: 21300000, guid: 919f4c3b8da09de4386c0f56c154ae45, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
